@@ -36,7 +36,7 @@
     "long": "^3.2.0",
     "mime-db": "^1.43.0",
     "mime-types": "^2.1.26",
-    "nth-check": "^1.0.2",
+    "nth-check": "^2.0.1",
     "oauth-sign": "^0.9.0",
     "object-inspect": "^1.7.0",
     "object-is": "^1.0.2",
