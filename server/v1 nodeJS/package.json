@@ -47,7 +47,7 @@
     "protobufjs": "^6.8.9",
     "psl": "^1.8.0",
     "punycode": "^2.1.1",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "queue": "^6.0.1",
     "safe-buffer": "^5.2.0",
     "safer-buffer": "^2.1.2",
